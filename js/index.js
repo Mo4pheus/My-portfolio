@@ -77,3 +77,5 @@ Submit.addEventListener('click', function(event) {
 Close.addEventListener('click', function() {
   hideModal();
 });
+
+
