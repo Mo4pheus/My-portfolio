@@ -287,7 +287,8 @@ button:hover {
 .aperçu-btn, #resume-btn, #input-name, #input-email, #input-subject, #input-message {
     animation: bounce-in 2s ease;
 }
-  @keyframes bounce-in {
+
+@keyframes bounce-in {
     0% {
       opacity: 0;
       transform: scale(.3);
